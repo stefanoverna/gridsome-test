@@ -1,0 +1,16 @@
+{
+  "name": "my-gridsome-site",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.0.0-rc.7",
+    "gridsome": "^0.7.0",
+    "gridsome-source-graphql": "^1.0.2",
+    "immer": "^9.0.1",
+    "vue-datocms": "^1.0.0"
+  }
+}
